@@ -1,9 +1,9 @@
 const headerNavLinks = [
   { href: '/blog', title: '文章' },
   { href: '/tags', title: '标签' },
-  { href: '/video', title: '视频' },
-  { href: '/projects', title: '项目' },
-  { href: 'https://www.runjs.cool/', title: '工具' },
+  { href: '/video', title: '极品视频' },
+  { href: '/projects', title: '友情链接' },
+  { href: 'http://bddxw.rensen.site/', title: '笨蛋acg资源天堂' },
   { href: '/about', title: '关于' },
 ]
 
