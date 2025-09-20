@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.bdacg.dedyn.io/',
   siteRepo: 'https://github.com/LCDBK/nextjs-tailwind-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  siteLogo: 'https://cdn.panxp.com/img/2025/09/68c5858e6e96a.jpg',
+  image: 'https://cdn.panxp.com/img/2025/09/68c5858e6e96a.jpg',
   socialBanner: '/static/images/twitter-card.png',
   邮箱: '3866427378@qq.com',
   qq群: 'https://github.com/maqi1520',
