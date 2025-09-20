@@ -1,8 +1,8 @@
 const projectsData = [
   {
     title: 'Code-Editor',
-    description: `一个纯前端的在线代码实时预览工具,支持 Less Scss JavaScript Typescript`,
-    imgSrc: '/static/images/code-editor.png',
+    description: `111111支持 Less Scss JavaScript Typescript`,
+    imgSrc: 'https://cdn.panxp.com/img/2025/09/68c5858e6e96a.jpg',
     href: 'https://code.runjs.cool/',
   },
   {
