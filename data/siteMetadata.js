@@ -9,13 +9,13 @@ const siteMetadata = {
   siteRepo: 'https://github.com/LCDBK/nextjs-tailwind-blog',
   siteLogo: 'https://cdn.panxp.com/img/2025/09/68c5858e6e96a.jpg',
   image: 'https://cdn.panxp.com/img/2025/09/68c5858e6e96a.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: 'https://cdn.panxp.com/img/2025/09/68b85cb774615.png',
   邮箱: '3866427378@qq.com',
   qq群: 'https://github.com/maqi1520',
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
   locale: 'zh-CN',
-  welcome: '自在，轻盈，我本不想停留',
+  welcome: '这里有很多很多的黄油，快点来玩吧🤪',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
